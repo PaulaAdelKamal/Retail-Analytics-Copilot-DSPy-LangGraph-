@@ -1,0 +1,1 @@
+{"id": "rag_policy_beverages_return_days", "error": "Failed to generate valid JSON response.", "raw_output": "{'id': 'uniqueAnswer001', 'final_answer': 14, 'sql': '', 'confidence': 0.773528518191875, 'explanation': \"The return window for unopened Beverages is explicitly mentioned as '14 days' in the product policy document.\", 'citations': ['product_policy.md::chunk_2']}"}
